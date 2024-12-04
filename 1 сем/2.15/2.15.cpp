@@ -1,7 +1,8 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
+	setlocale(LC_ALL, "rus");
 	int n, s, k;
 	bool flag = false;
 
@@ -9,12 +10,20 @@ int main()
 
 	while (n > 0 && !flag)
 	{
-		flag = true;
-		cout << "цифра найдена!" << endl;
+		k = n % 10;
+		if (k == s)
+		{
+			flag = true;
+			cout << "цифра найдена!" << endl;
+		}
+		else
+		{
+			n /= 10;
+		}
 	}
 	if (!flag)
 	{
-		cout << "цифра найдена!" << endl;
-		return 0;
+		cout << "цифра не найдена!" << endl;
 	}
+	return 0;
 }
