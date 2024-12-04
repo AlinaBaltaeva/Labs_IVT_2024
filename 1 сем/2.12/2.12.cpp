@@ -3,15 +3,15 @@ using namespace std;
 int main()
 {
 	int n, k, max, min;
-	cout << "" << endl;
+	cout << "Введите длину последовательности" << endl;
 	cin >> n;
-	cout << "" << endl;
+	cout << "ВВедите первое число" << endl;
 	cin >> k;
 	max = k;
 	min = k;
 	for (int i = 2; i <= n; i++)
 	{
-		cout << "" << endl;
+		cout << "ВВедите следующее число" << endl;
 		cin >> k;
 		if (max < k)
 		{
