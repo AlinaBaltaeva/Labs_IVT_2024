@@ -8,7 +8,7 @@ int main()
 	
 	cout << "Введите первое число(0-конец)" << endl;
 	cin >> n;
-	while (false)
+	while (true)
 	{
 		cout << "Введите следующее число(0-конец)" << endl;
 		cin >> k;
