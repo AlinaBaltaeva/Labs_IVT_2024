@@ -18,13 +18,10 @@ int main()
 	for (int i = 0; i < n; i++)
 	{
 		key = arr[i];
-		cout << "key : " << key << endl;
 		int j = i - 1;
-		cout << "Entered in cycle:\n";
 		while (j >= 0 && arr[j] > key)
 		{
 			arr[j + 1] = arr[j];
-			cout << "need an exchange:\n";
 			j--;
 		}
 		arr[j + 1] = key;
