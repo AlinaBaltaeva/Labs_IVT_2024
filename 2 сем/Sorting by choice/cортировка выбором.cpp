@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	int r, range_min, range_max,tmp;
+	int range_min, range_max,tmp;
 	int arr[50];
 	const int n = 10;
 	range_min = 2;
