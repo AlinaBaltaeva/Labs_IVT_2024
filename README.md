@@ -2,8 +2,8 @@
 | ------------- | ------------- |
 |sem_1| :white_check_mark:|
 | Lab_1 | :white_check_mark:|
-| Lab_2 | :x: |
+| Lab_2 | :white_check_mark: |
 | Sorting |:white_check_mark: |
-| Lab_3 |:black_square_button:  |
-| Han_town |:black_square_button:  |
+| Han_town |:white_check_mark: |
 |  8 queens|:black_square_button:  |
+| Lab_3 |:x:  |
