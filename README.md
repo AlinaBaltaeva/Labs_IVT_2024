@@ -6,7 +6,11 @@
 | Sorting |:white_check_mark: |
 | Han_town |:white_check_mark: |
 |  8 queens|:black_square_button:  |
-| Lab_3(6) |:x:  |
-| Lab_4(7.1) |:x:  |
-| Lab_5(7.2) |:x:  |
+| Lab_3(6) |блок-схемы нет  |
+| Lab_4(7.1) |блок-схемы нет  |
+| Lab_5(7.2) |блок-схемы нет  |
+| Lab_6(8) |:x:  |
+| Lab_5(9) |:x:  |
 | Lab_6(10) |:x:  |
+| Lab_5(11) |:x:  |
+| idef0|:x:  |
