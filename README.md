@@ -10,7 +10,7 @@
 | Han_town |:white_check_mark: |
 |  8 queens|:black_square_button:  |
 | Lab_3(6) |блок-схемы нет  |
-| Lab_4_1(7.1) |блок-схемы нет  |
+| Lab_4_1(7.1) |переделать |
 | Lab_4_2(7.2) |блок-схемы нет  |
 | Lab_5 (8) |:x:|
 | Lab_6(9) |:x:  |
