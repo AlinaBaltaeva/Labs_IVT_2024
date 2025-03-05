@@ -1,40 +1,41 @@
 // сумма вещественных чисел
-// умножение обыкновенных дробей
+// сумма обыкновенных дробей
 
 #include <iostream>
 #include <cstdlib>
 using namespace std;
 
-float sum( int n, float a[])
+float sum(double a, double b)
 {
-	float summ{};
-	for (int i = 0; i < n; i++)
-	{
-		summ += a[i];
-	}
-	return summ;
+	return a + b;
 }
 
-float drob(double chislitelA, double znamenatelA, double chislitelB, double znamenatelB)
+float sum(double cA, double zA, double cB, double zB)
 {
-	if (znamenatelA!=0 && znamenatelB!=0)
-	{
-		return (chislitelA * chislitelB) / (znamenatelA * znamenatelB);
-	}
+	
+	return (cA * zB + cB * zA) / (zA * zB);
+	
 }
 
 void main()
 {
 	setlocale(LC_ALL, "rus");
-	float x[] = { 30.5, 45.6, 78.9, 23.5, 12.7, 98.4, 64.9, 32.54, 65.3 };
-	float s = sum(7, x);
-	float s1 = sum(9, x);
-	cout<<"Сумма семи чисел равна :" << s << endl;
-	cout<<"Сумма девяти чисел равна :" << s1 << endl;
+	double a, b;
+	cout << "ВВедите два числа:" << endl;
+	cin >> a >> b;
+	double result1 = sum(a, b);
+	cout << "Сумма двух вещественных чисел равна:" << result1 << endl;
 
 	double cA, zA, cB, zB;
-	cout << "Введите числа для умножения дробей:" << endl;
-	cin >> cA >> zA >> cB >> zB;
-	double dr = drob(cA, zA, cB, zB);
-	cout << "Произведение обыкновенных дробей равно:" << dr << endl;
+	cout << "Введите числитель первой дроби:" << endl;
+	cin >> cA;
+	cout << "Введите знаменатель первой дроби:" << endl;
+	cin >> zA;
+	cout << "Введите числитель второй дроби:" << endl;
+	cin >> cB;
+	cout << "Введите знаменатель второй дроби:" << endl;
+	cin >> zB;
+	float result2 = sum( cA, zA, cB, zB);
+	cout << "Сумма обыкновенных дробей равна:" <<result2<< endl;
+	
 }
