@@ -12,8 +12,7 @@
 | Lab_3(6) |:white_check_mark:  |
 | Lab_4_1(7.1) |переделать |
 | Lab_4_2(7.2) |:white_check_mark:  |
-| Lab_5 (8) |:x:|
-| Lab_6(9) |:x:  |
+| Lab_6(9) |нет блок-схемы  |
 | Lab_7(10) |:x:  |
 | Lab_8(11) |:x:  |
 | idef0|:x:  |
