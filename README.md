@@ -12,7 +12,7 @@
 | Lab_3(6) |:white_check_mark:  |
 | Lab_4_1(7.1) |:white_check_mark:|
 | Lab_4_2(7.2) |:white_check_mark:  |
-| Lab_5(9) |нет блок-схемы  |
+| Lab_5(9) | :white_check_mark:|
 | Lab_6(10) |нет блок-схемы  |
 | Lab_7(11) |неполностью  |
 | Lab_7(односвязные списки) |нет блок-схемы  |
