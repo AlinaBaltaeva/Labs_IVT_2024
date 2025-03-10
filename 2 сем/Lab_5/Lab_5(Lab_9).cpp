@@ -15,10 +15,6 @@ int main()
 	string str;
 	ifstream myf1("F1.txt");
 	fstream myf2("F2.txt");
-	if (!myf1.is_open())
-	{
-		cout << "error" << endl;
-	}
 	if (!myf2.is_open())
 	{
 		cout << "error" << endl;
