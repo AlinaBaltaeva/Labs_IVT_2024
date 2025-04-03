@@ -8,16 +8,16 @@
 | Lab_2(5) | :white_check_mark: |
 | Sorting |:white_check_mark: |
 | Han_town |:white_check_mark: |
-|  8 queens|:black_square_button:  |
+|  8 queens|:white_check_mark:  |
 | Lab_3(6) |:white_check_mark:  |
 | Lab_4_1(7.1) |:white_check_mark:|
 | Lab_4_2(7.2) |:white_check_mark:  |
 | Lab_5(9) | :white_check_mark:|
 | Lab_6(10) |:white_check_mark: |
-| Lab_7(11) |неполностью  |
+| Lab_7(11) |:white_check_mark:  |
 | Lab_7(односвязные списки) | :white_check_mark:|
 | Lab_7(двусвязные списки) | :white_check_mark:|
-| Lab_7(стек) |:x:  |
+| Lab_7(стек) |нет блок-схемы  |
 | Lab_7(очередь) |:white_check_mark:  |
 | idef0|:x:  |
 | Сложные сортировки:быстрая по Ломуто |:x:  |
