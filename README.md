@@ -16,7 +16,7 @@
 | Lab_6(10) |:white_check_mark: |
 | Lab_7(11) |неполностью  |
 | Lab_7(односвязные списки) | :white_check_mark:|
-| Lab_7(двусвязные списки) |нет блок-схемы  |
+| Lab_7(двусвязные списки) | :white_check_mark:|
 | Lab_7(стек) |:x:  |
 | Lab_7(очередь) |:white_check_mark:  |
 | idef0|:x:  |
