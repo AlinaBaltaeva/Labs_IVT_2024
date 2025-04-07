@@ -19,7 +19,7 @@
 | Lab_7(двусвязные списки) | :white_check_mark:|
 | Lab_7(стек) | :white_check_mark: |
 | Lab_7(очередь) |:white_check_mark:  |
-| idef0|:x:  |
+| idef0|:white_check_mark:  |
 | Сложные сортировки:слияние,блочная,подсчет,быстрая по Ломуто|нет блок-схемы |
 | Shella_and_Hoara|:white_check_mark: |
 | Многофазная сортировка|:x:  |
