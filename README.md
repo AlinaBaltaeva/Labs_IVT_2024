@@ -32,5 +32,5 @@
 | Class(Lab_3)|:x:  |
 | Class(Lab_4)|:x:  |
 | Class(Lab_5)|:x:  |
-| Class(Lab_1=6)|:x:  |
+| Class(Lab_6)|:x:  |
 
