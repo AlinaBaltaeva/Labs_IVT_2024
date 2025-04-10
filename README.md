@@ -29,7 +29,7 @@
 | Хэш-тфблица|:x:  |
 | Class(Lab_1)|нет блок-схемы |
 | Class(Lab_2)|нет блок-схемы |
-| Class(Lab_3)|:x:  |
+| Class(Lab_3)|нет блок-схемы  |
 | Class(Lab_4)|:x:  |
 | Class(Lab_5)|:x:  |
 | Class(Lab_6)|:x:  |
