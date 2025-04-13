@@ -39,7 +39,7 @@ Rect& Rect::operator =(const Rect& rect) {
 }
 int Rect::Per()
 {
-	return lenght + width;
+	return 2*(lenght + width);
 }
 int Rect::Sq()
 {
