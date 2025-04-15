@@ -27,10 +27,10 @@
 |Search(L,I,B)-поиски лин.инте. и бинар.|нет блок-схемы |
 | Search(K, B)-Кнут-Моррис-Пратт и Бойер-Мур|:white_check_mark:  |
 | Хэш-тфблица|:x:  |
-| Class(Lab_1)|нет блок-схемы |
-| Class(Lab_2)|нет блок-схемы |
+| Class(Lab_1)|:white_check_mark:|
+| Class(Lab_2)|:white_check_mark:|
 | Class(Lab_3)|нет блок-схемы  |
 | Class(Lab_4)|нет блок-схемы |
-| Class(Lab_5)|нужна помощь |
+| Class(Lab_5)|нет блок-схемы|
 | Class(Lab_6)|:x:  |
 
