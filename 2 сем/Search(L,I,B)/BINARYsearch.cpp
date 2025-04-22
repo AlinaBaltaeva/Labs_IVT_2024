@@ -27,6 +27,7 @@ int binarySearchRec(int arr[], int low, int high, int x)
 
 int main()
 {
+    setlocale(LC_ALL, "ru");
     int arr[10] = { 2, 2, 6, 7, 13, 18, 21, 54, 68, 77 };
     int n = sizeof(arr) / sizeof(arr[0]);
     int x = 7;
