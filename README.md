@@ -24,7 +24,7 @@
 | Shella_and_Hoara|:white_check_mark: |
 | Многофазная сортировка|:x:  |
 | Естественная сортировка|:x:  |
-|Search(L,I,B)-поиски лин.инте. и бинар.|нет блок-схемы |
+|Search(L,I,B)-поиски лин.инте. и бинар.| :white_check_mark: |
 | Search(K, B)-Кнут-Моррис-Пратт и Бойер-Мур|:white_check_mark:  |
 | Хэш-тфблица|:x:  |
 | Class(Lab_1)|:white_check_mark:|
