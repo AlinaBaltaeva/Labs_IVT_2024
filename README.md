@@ -25,7 +25,7 @@
 |M_and_E_sort( Многофазная и естественная сортировки)|нет блок-схемы|
 |Search(L,I,B)-поиски лин.инте. и бинар.| :white_check_mark: |
 | Search(K, B)-Кнут-Моррис-Пратт и Бойер-Мур|:white_check_mark:  |
-| Хэш-тфблица|:x:  |
+| Хэш-таблица|:x:  |
 | Class(Lab_1)|:white_check_mark:|
 | Class(Lab_2)|:white_check_mark:|
 | Class(Lab_3)|нет блок-схемы  |
