@@ -22,7 +22,7 @@
 | idef0|:white_check_mark:  |
 | Сложные сортировки:слияние,блочная,подсчет,быстрая по Ломуто|:white_check_mark: |
 | Shella_and_Hoara|:white_check_mark: |
-|M_and_E_sort( Многофазная и естественная сортировки)|нет блок-схемы|
+|M_and_E_sort( Многофазная и естественная сортировки)|:white_check_mark:|
 |Search(L,I,B)-поиски лин.инте. и бинар.| :white_check_mark: |
 | Search(K, B)-Кнут-Моррис-Пратт и Бойер-Мур|:white_check_mark:  |
 | Хэш-таблица|:x:  |
