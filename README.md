@@ -32,4 +32,11 @@
 | Class(Lab_4)|нет блок-схемы |
 | Class(Lab_5)|нет блок-схемы|
 | Class(Lab_6)|:нет блок-схемы  |
+| Class(Lab_7)|:x:|
+| Class(Lab_8)|:x:|
+| Class(Lab_9)|:x: |
+| Class(Lab_10)|:x: |
+| Class(Lab_1)1|:x:|
+| Class(Lab_12)| :x:|
+| Class(Lab_13)| :x:|
 
