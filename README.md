@@ -33,7 +33,7 @@
 | Class(Lab_5)|нет блок-схемы|
 | Class(Lab_6)|:нет блок-схемы  |
 | Class(Lab_7)|нет блок-схемы|
-| Class(Lab_8)|:x:|
+| Class(Lab_8)|нет блок-схемы|
 | Class(Lab_9)|:x: |
 | Class(Lab_10)|:x: |
 | Class(Lab_11)|:x:|
