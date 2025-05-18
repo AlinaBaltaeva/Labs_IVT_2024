@@ -28,13 +28,17 @@
 | Hash_tab(Хэш-таблица)|нет блок-схемы|
 | Class(Lab_1)|:white_check_mark:|
 | Class(Lab_2)|:white_check_mark:|
-| Class(Lab_3)|нет блок-схемы  |
-| Class(Lab_4)|нет блок-схемы |
-| Class(Lab_5)|нет блок-схемы|
-| Class(Lab_6)|:нет блок-схемы  |
-| Class(Lab_7)|нет блок-схемы|
-| Class(Lab_8)|нет блок-схемы|
-| Class(Lab_9)|:x: |
+| Class(Lab_3)|:white_check_mark:  |
+| Class(Lab_4)|:white_check_mark:  |
+| Class(Lab_5)|:white_check_mark:|
+| Class(Lab_6)|:white_check_mark:  |
+| Class(Lab_7)|:white_check_mark:|
+| Class(Lab_8)|:white_check_mark:|
+| Class(Lab_9)|::white_check_mark: |
+| Class(Lab_10)|:white_check_mark:|
+| Class(Lab_11)|:x: |
+| Class(Lab_12)|:x: |
+| Class(Lab_13)|:x: |
 | Class(Lab_10)|:x: |
 | Class(Lab_11)|:x:|
 | Class(Lab_12)| :x:|
