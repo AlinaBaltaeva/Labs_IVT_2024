@@ -34,7 +34,7 @@
 | Class(Lab_6)|:white_check_mark:  |
 | Class(Lab_7)|:white_check_mark:|
 | Class(Lab_8)|:white_check_mark:|
-| Class(Lab_9)|::white_check_mark: |
+| Class(Lab_9)|:white_check_mark: |
 | Class(Lab_10)|:white_check_mark:|
 | Class(Lab_11)|:x: |
 | Class(Lab_12)|:x: |
