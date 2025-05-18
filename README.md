@@ -39,8 +39,5 @@
 | Class(Lab_11)|:x: |
 | Class(Lab_12)|:x: |
 | Class(Lab_13)|:x: |
-| Class(Lab_10)|:x: |
-| Class(Lab_11)|:x:|
-| Class(Lab_12)| :x:|
-| Class(Lab_13)| :x:|
+
 
