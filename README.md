@@ -41,5 +41,5 @@
 | Class(Lab_13)|:x: |
 |Binary_Tree| :white_check_mark: |
 | Graph|:white_check_mark:|
-|Commivoger|:x: |
+|Commivoyger|:white_check_mark:|
 
