@@ -40,6 +40,6 @@
 | Class(Lab_12)|:x: |
 | Class(Lab_13)|:x: |
 |Binary_Tree| :white_check_mark: |
-| Graph|:x: |
+| Graph|:white_check_mark:|
 |Commivoger|:x: |
 
