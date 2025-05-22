@@ -39,5 +39,7 @@
 | Class(Lab_11)|:x: |
 | Class(Lab_12)|:x: |
 | Class(Lab_13)|:x: |
-
+|Binary_Tree|:x: |
+| Graph|:x: |
+|Commivoger|:x: |
 
