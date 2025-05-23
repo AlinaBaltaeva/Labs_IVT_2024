@@ -8,7 +8,7 @@
 using namespace std;
 using namespace sf;
 
-const int N = 6; // Количество вершин
+const int N = 6; 
 int adjMatrix[N][N] = {
     {0, 8, 7, 11, 11, 11},
     {8, 0, 12, 7, 4, 14},
@@ -126,18 +126,18 @@ int main() {
     }
 
     if (!fontLoaded) {
-        std::cerr << "Ошибка: не удалось загрузить шрифт\n";
+        cout << "Ошибка: не удалось загрузить шрифт\n";
     }
 
-    // Создание окна
+    
     RenderWindow window(VideoMode(800, 600), "Graph Visualizer");
     window.setFramerateLimit(60);
 
-    // Инициализация графа
-    Graph graph(false); // Ненаправленный граф
+   
+    Graph graph(false);
     for (int i = 1; i <= 6; i++) graph.InsertVertex(i);
 
-    // Добавление рёбер
+    
     graph.InsertEdge(1, 2, 8);
     graph.InsertEdge(2, 3, 12);
     graph.InsertEdge(3, 4, 16);
@@ -154,7 +154,7 @@ int main() {
     graph.InsertEdge(1, 4, 11);
     graph.InsertEdge(2, 4, 7);
 
-    // Выполнение алгоритмов
+    
     vector<int> bfsResult, dfsResult;
     graph.BFS(6, bfsResult);
     graph.DFS(6, dfsResult);
@@ -173,7 +173,7 @@ int main() {
         cout << "К " << i + 1 << ": " << dijkstraResult[i] << endl;
     }
 
-    // Решение задачи коммивояжера
+    
     TSP();
 
     cout << "Минимальная стоимость: " << final_res << endl;
@@ -194,7 +194,7 @@ int main() {
         window.clear(Color::White);
         graph.DrawGraph(window);
 
-        // Отрисовка текста, если шрифт загружен
+        н
         if (fontLoaded) {
             sf::Text text;
             text.setFont(font);
