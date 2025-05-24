@@ -25,7 +25,7 @@
 |M_and_E_sort( Многофазная и естественная сортировки)|:white_check_mark:|
 |Search(L,I,B)-поиски лин.инте. и бинар.| :white_check_mark: |
 | Search(K, B)-Кнут-Моррис-Пратт и Бойер-Мур|:white_check_mark:  |
-| Hash_tab(Хэш-таблица)|нет блок-схемы|
+| Hash_tab(Хэш-таблица)|:white_check_mark:|
 | Class(Lab_1)|:white_check_mark:|
 | Class(Lab_2)|:white_check_mark:|
 | Class(Lab_3)|:white_check_mark:  |
@@ -36,9 +36,9 @@
 | Class(Lab_8)|:white_check_mark:|
 | Class(Lab_9)|:white_check_mark: |
 | Class(Lab_10)|:white_check_mark:|
-| Class(Lab_11)|:x: |
-| Class(Lab_12)|:x: |
-| Class(Lab_13)|:x: |
+| Class(Lab_11)|:white_check_mark: |
+| Class(Lab_12)|:white_check_mark: |
+| Class(Lab_13)|:white_check_mark:|
 |Binary_Tree| :white_check_mark: |
 | Graph|:white_check_mark:|
 |Commivoyger|:white_check_mark:|
